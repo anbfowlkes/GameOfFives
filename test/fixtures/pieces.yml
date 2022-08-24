@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hpos: 1
+  vpos: 1
+  player: 1
+  type: 1
+
+two:
+  hpos: 1
+  vpos: 1
+  player: 1
+  type: 1
